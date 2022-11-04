@@ -1,6 +1,6 @@
 # Computer Science for JavaScript Challenge: Regex Tutorial
 ## Regular Expression Tutorial
-This tutorial is meant to be a foundational reference guide for anyone learning regular expressions. We'll be referencing one specific regex throughout this tutorial that can be used to search for an email address such as "bob@gmail.com" and return a match if the structure of that email matches the criteria specified in the regex. We'll break down each component of our email regex and learning about the functionality of each part. By the end of this tutorial you will know what a regular expression is, when to use them and how to utilize each component.
+This tutorial is meant to be a foundational reference guide for anyone learning regular expressions. We'll be referencing one specific regex throughout this tutorial that can be used to search for an email address such as "email@gmail.com" and return a match if the structure of that email matches the criteria specified in the regex. We'll break down each component of our email regex and learning about the functionality of each part. By the end of this tutorial you will know what a regular expression is, when to use them and how to utilize each component.
 
 
 ### Summary
